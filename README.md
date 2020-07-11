@@ -29,9 +29,11 @@ From the technical perspective my main focus is web performance, sustainable eng
 But lately I've been focused on Frontend Web Development
 
 - 💬 Ask me about ...
+
 PHP, Symfony, React, Webpack, heavy loaded systems, and more technologies
 
 - Interests ...
+
 Whenever not thinking on web development, I can be found contributing to
 open-source projects 👨‍💻 like GNOME (as a member of the GNOME Foundation) 
 or in Ubuntu as Galician translators coordinator, 
