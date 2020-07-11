@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi! I'm ✨ Fran Diéguez ✨ and I've been developing web applications as a 
+I'm ✨ Fran Diéguez ✨ and I've been developing web applications as a 
 Full Stack Developer since 2006. 
 
 I've been in multiple positions thoughtout my career, from a software developer, lead developer, 
@@ -8,7 +8,7 @@ The objective on each project is to create useful tools that make
 impact on users.
 
 
-- 🔭 I’m currently working on ...
+#### 🔭 I’m currently working on ...
 
 Currently I'm helping to create the visual part of [Situm](https://www.situm.com), 
 an awesome company that helps multiple industries to position their users 
@@ -23,16 +23,16 @@ desktop in order to simplify administrative tasks and also doing massive
 migrations to open source sofware in educational settings. 
 This project won the Libre Software contest in Galicia, Spain.
 
-- 🌱 I’m currently learning ...
+#### 🌱 I’m currently learning ...
 
 From the technical perspective my main focus is web performance, sustainable engineering and open source technology.
 But lately I've been focused on Frontend Web Development
 
-- 💬 Ask me about ...
+#### 💬 Ask me about ...
 
 PHP, Symfony, React, Webpack, heavy loaded systems, and more technologies
 
-- Interests ...
+#### Interests ...
 
 Whenever not thinking on web development, I can be found contributing to
 open-source projects 👨‍💻 like GNOME (as a member of the GNOME Foundation) 
