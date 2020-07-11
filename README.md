@@ -10,12 +10,12 @@ impact on users.
 
 - 🔭 I’m currently working on ...
 
-Currently I'm helping to create the visual part of [Situm|https://www.situm.com], 
+Currently I'm helping to create the visual part of [Situm](https://www.situm.com), 
 an awesome company that helps multiple industries to position their users 
 (robots and people) indoors while doing Bussiness Intelligence on gathered data.
 
 Before I've being proudly creating different tools focused on high performance 
-and heavy loaded systems that helped journalists to maintain online newspapers, developing [OpenNemas|https://www.opennemas.com].
+and heavy loaded systems that helped journalists to maintain online newspapers, developing [OpenNemas](https://www.opennemas.com).
 
 Prior that I've been working as a open-source software consultant at the 
 University of Santiago de Compostela, where I've developed a custom Linux-based 
