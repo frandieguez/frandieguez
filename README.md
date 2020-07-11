@@ -30,7 +30,7 @@ But lately I've been focused on Frontend Web Development
 
 #### 💬 Ask me about ...
 
-PHP, Symfony, React, Webpack, heavy loaded systems, and more technologies
+PHP, Symfony, React, Webpack, ES6, Ruby, Node, Redis, MySQL, PostgreSQL heavy loaded systems, and more technologies
 
 #### Interests ...
 
@@ -39,7 +39,8 @@ open-source projects 👨‍💻 like GNOME (as a member of the GNOME Foundation
 or in Ubuntu as Galician translators coordinator, 
 reading or doing sports like Crossfit and snowboard 🏂.
 
-- 📫 How to reach me: 
+#### 📫 How to reach me: 
+
 <a href="https://twitter.com/frandieguez">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>  
