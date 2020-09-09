@@ -1,10 +1,10 @@
 # Hi there 👋
 I'm ✨ Fran Diéguez ✨ and I've been developing web applications as a 
-Full Stack Developer since 2006. 
+Full Stack Developer since 2006. On each project I always focus on create useful tools that make impact on users.
+
+![JS, TS, React, Webpack, Node.js, cypress.io, TS, eslint, styled-components, babel, GraphQL](logos.jpg)
 
 Thoughtout my carreer I've been in multiple positions, from a software developer, lead developer, Head of Research and Development and CTO. 
-On each project I allways focus on create useful tools that make impact on users.
-
 
 #### 🔭 I’m currently working on ...
 
@@ -20,7 +20,7 @@ But lately I've been focused on Frontend Web Development
 
 #### 💬 Ask me about ...
 
-PHP, Symfony, React, Webpack, ES6, Ruby, Node, Redis, MySQL, PostgreSQL heavy loaded systems, and more technologies
+PHP, Symfony, React, Webpack, ES6, Typescript, Ruby, Node, Redis, MySQL, PostgreSQL heavy loaded systems, and more technologies
 
 #### Interests ...
 
