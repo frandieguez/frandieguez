@@ -1,27 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 I'm ✨ Fran Diéguez ✨ and I've been developing web applications as a 
 Full Stack Developer since 2006. 
 
-I've been in multiple positions thoughtout my career, from a software developer, lead developer, 
-CTO, and Head of Research and Development. 
-The objective on each project is to create useful tools that make 
-impact on users.
+Thoughtout my carreer I've been in multiple positions, from a software developer, lead developer, Head of Research and Development and CTO. 
+On each project I allways focus on create useful tools that make impact on users.
 
 
 #### 🔭 I’m currently working on ...
 
-Currently I'm helping to create the visual part of [Situm](https://www.situm.com), 
+Currently I'm helping to create the Web frontend of [Situm](https://www.situm.com), 
 an awesome company that helps multiple industries to position their users 
 (robots and people) indoors while doing Bussiness Intelligence on gathered data.
 
-Before I've being proudly creating different tools focused on high performance 
-and heavy loaded systems that helped journalists to maintain online newspapers, developing [OpenNemas](https://www.opennemas.com).
-
-Prior that I've been working as a open-source software consultant at the 
-University of Santiago de Compostela, where I've developed a custom Linux-based 
-desktop in order to simplify administrative tasks and also doing massive 
-migrations to open source sofware in educational settings. 
-This project won the Libre Software contest in Galicia, Spain.
 
 #### 🌱 I’m currently learning ...
 
