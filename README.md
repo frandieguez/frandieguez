@@ -1,9 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm [Fran Diéguez](https://www.frandieguez.dev), a Full Stack Developer 🚀 since 2006 from Spain, currently, I'm a Frontend Sofware Developer 🙍🏽‍♂️ [@situmtech](https://github.com/situmtech), and a Former Head of Research and Development [@openhost](https://www.openhost.es/). Beside's programming, I enjoy doing sports and snowboard.
+Hi, I'm [Fran Diéguez](https://www.frandieguez.dev), a Full Stack Developer 🚀 since 2006 from Spain, currently, I'm a Frontend Sofware Developer 🙍🏽‍♂️ [@situmtech](https://github.com/situmtech), and a Former Head of Research and Development [@openhost](https://www.openhost.es/). Beside's programming, I enjoy reading and doing sports.
 
-Thoughtout my carreer I've been in multiple positions, from a software developer, lead developer, Head of Research and Development and CTO. 
-
+Thoughtout my carreer I've been in multiple positions, from a software developer, lead developer, Head of Research and Development and CTO. The objective on each project is to create useful tools that make impact on users.
 
 #### 🔭 Languages and tools ...
 ![JS, TS, React, Webpack, Node.js, cypress.io, TS, eslint, styled-components, babel, GraphQL](https://github.com/frandieguez/frandieguez/raw/master/logos.jpg)
