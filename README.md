@@ -30,6 +30,11 @@ open-source projects 👨‍💻 like GNOME (as a member of the GNOME Foundation
 or in Ubuntu as Galician translators coordinator, 
 reading or doing sports like Crossfit and snowboard 🏂.
 
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandieguez&layout=compact&hide=html" alt="frandieguez" /></p>
+
+
 #### 📫 How to reach me: 
 
 <a href="https://twitter.com/frandieguez">
@@ -41,4 +46,3 @@ reading or doing sports like Crossfit and snowboard 🏂.
   <a href="https://www.linkedin.com/in/frandieguez/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
-
