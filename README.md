@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm [Fran Diéguez](https://www.frandieguez.dev), a Full Stack Developer 🚀 since 2006 from Spain, currently, I'm a Frontend Sofware Developer 🙍🏽‍♂️ [@situmtech](https://www.situm.com), and a Former Head of Research and Development [@openhost](https://www.openhost.es/). Beside's programming, I enjoy reading and doing sports.
+Hi, I'm [Fran Diéguez](https://www.frandieguez.dev), a Full Stack Developer 🚀 since 2006 from Spain, currently as a Tech Lead and Frontend Sofware Developer 🙍🏽‍♂️ at [@situmtech](https://www.situm.com), and Former Head of Research and Development at [@openhost](https://www.openhost.es/). Beside's programming, I enjoy reading and doing sports.
 
 Thoughtout my carreer I've been in multiple positions, from a software developer, lead developer, Head of Research and Development and CTO. *My objective* on each project is to create useful tools that make impact on users.
 
@@ -9,7 +9,8 @@ Thoughtout my carreer I've been in multiple positions, from a software developer
 
 #### 🔭 I’m currently working on ...
 
-Currently I'm helping to create the Web frontend of [Situm](https://www.situm.com), 
+I'm helping to create the Web frontend, maintaining some React Native plugins and 
+helping my team as Tech Lead at [Situm](https://www.situm.com), 
 an awesome company that helps multiple industries to position their users 
 (robots and people) indoors while doing Bussiness Intelligence on gathered data.
 
@@ -21,16 +22,14 @@ But lately I've been focused on Frontend Web Development
 
 #### 💬 Ask me about ...
 
-PHP, Symfony, React, Webpack, ES6, Typescript, Ruby, Node, Redis, MySQL, PostgreSQL heavy loaded systems, and more technologies
+TypeScript, ESM, React Native, Ruby, PHP, Symfony, React, Webpack, Vite, Node, Redis, MySQL, PostgreSQL heavy loaded systems, and more technologies
 
 #### Interests ...
 
-Whenever not thinking on web development, I can be found contributing to
+Whenever not thinking on software development, I can be found contributing to
 open-source projects 👨‍💻 like GNOME (as a member of the GNOME Foundation) 
-or in Ubuntu as Galician translators coordinator, 
-reading or doing sports like Crossfit and snowboard 🏂.
-
-
+or in Ubuntu as Galician translators coordinator, reading or doing sports 
+like Crossfit and snowboard 🏂.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandieguez&layout=compact&hide=html" alt="frandieguez" /></p>
 
