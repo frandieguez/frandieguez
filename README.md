@@ -1,24 +1,28 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm [Fran Diéguez](https://www.frandieguez.dev), a Full Stack Developer 🚀 since 2006 from Spain, currently as a Tech Lead and Frontend Sofware Developer 🙍🏽‍♂️ at [@situmtech](https://www.situm.com), and Former Head of Research and Development at [@openhost](https://www.openhost.es/). Beside's programming, I enjoy reading and doing sports.
+Hi, I'm [Fran Diéguez](https://www.frandieguez.dev), a Full Stack Developer 🚀 from Spain with over 15 years of experience. Throughout my career, I've held various positions, including Software Developer, Lead Developer, Head of Research and Development, and CTO. *My objective* on each project is to create useful tools that make impact on users.
 
-Thoughtout my carreer I've been in multiple positions, from a software developer, lead developer, Head of Research and Development and CTO. *My objective* on each project is to create useful tools that make impact on users.
+
+Currently, I work as a Tech Lead and Frontend Software Developer 🙍🏽‍♂️ at [@situmtech](https://www.situm.com). 
+Previously, I served as the Head of Research and Development at [@openhost](https://www.openhost.es/).
+
+In addition to programming, I enjoy reading, home automation and engaging in sports.
 
 #### 🔭 Languages and tools ...
+
 ![JS, TS, React, Webpack, Node.js, cypress.io, TS, eslint, styled-components, babel, GraphQL](https://github.com/frandieguez/frandieguez/raw/master/logos.jpg)
 
 #### 🔭 I’m currently working on ...
 
-I'm helping to create the Web frontend, maintaining some React Native plugins and 
-helping my team as Tech Lead at [Situm](https://www.situm.com), 
-an awesome company that helps multiple industries to position their users 
+I'm helping to create the Web frontend mainly in React, Ruby and Java, helping to maintain React Native 
+and Flutter plugins but before helping my team as Tech Lead at [Situm](https://www.situm.com).
+Situm is an awesome company that helps multiple industries to position their users 
 (robots and people) indoors while doing Bussiness Intelligence on gathered data.
-
 
 #### 🌱 I’m currently learning ...
 
 From the technical perspective my main focus is web performance, sustainable engineering and open source technology.
-But lately I've been focused on Frontend Web Development
+But lately I've been focused on Frontend and Hybrid Mobile Web Development.
 
 #### 💬 Ask me about ...
 
@@ -32,7 +36,6 @@ or in Ubuntu as Galician translators coordinator, reading or doing sports
 like Crossfit and snowboard 🏂.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandieguez&layout=compact&hide=html" alt="frandieguez" /></p>
-
 
 #### 📫 How to reach me: 
 
