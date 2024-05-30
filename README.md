@@ -14,9 +14,9 @@ In addition to programming, I enjoy reading, home automation and engaging in spo
 
 #### 🔭 I’m currently working on ...
 
-I'm helping to create the Web frontend mainly in React, Ruby and Java, helping to maintain React Native 
-and Flutter plugins but before helping my team as Tech Lead at [Situm](https://www.situm.com).
-Situm is an awesome company that helps multiple industries to position their users 
+I'm helping to create the Web infrastructure (mainly in React, Ruby and Java), helping to maintain React Native 
+and Flutter plugins but before all supporting my team as Tech Lead at [Situm](https://www.situm.com), an awesome 
+company that helps multiple industries to position their users 
 (robots and people) indoors while doing Bussiness Intelligence on gathered data.
 
 #### 🌱 I’m currently learning ...
