@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm [Fran Diéguez](https://www.frandieguez.dev), a Full Stack Developer 🚀 from Spain with over 15 years of experience. Throughout my career, I've held various positions, including Software Developer, Lead Developer, Head of Research and Development, and CTO. *My objective* on each project is to create useful tools that make impact on users.
+Hi, I'm [Fran Diéguez](https://www.frandieguez.dev), a Full Stack Developer 🚀 from Spain with over 18 years of experience. Throughout my career, I've held various positions, including Software Developer, Lead Developer, Head of Research and Development, and CTO. *My objective* on each project is to create useful tools that make impact on users.
 
 
 Currently, I work as a Tech Lead and Frontend Software Developer 🙍🏽‍♂️ at [@situmtech](https://www.situm.com). 
